@@ -1,0 +1,86 @@
+{
+    "users": [
+        {
+            "email": "admin1@mail.com",
+            "password": "password"
+        },
+        {
+            "email": "admin2@mail.com",
+            "password": "password"
+        }
+    ],
+    "reports": [
+        {
+            "amount": 100,
+            "type": "sales",
+            "date": "1/1/2020"
+        },
+        {
+            "amount": 200,
+            "type": "sales",
+            "date": "2/1/2020"
+        },
+        {
+            "amount": 150,
+            "type": "sales",
+            "date": "3/1/2020"
+        },
+        {
+            "amount": 170,
+            "type": "sales",
+            "date": "4/1/2020"
+        },
+        {
+            "amount": 175,
+            "type": "sales",
+            "date": "5/1/2020"
+        },
+        {
+            "amount": 120,
+            "type": "sales",
+            "date": "6/1/2020"
+        },
+        {
+            "amount": 60,
+            "type": "expenses",
+            "date": "1/1/2020",
+            "category": "rent"
+        },
+        {
+            "amount": 50,
+            "type": "expenses",
+            "date": "2/1/2020",
+            "category": "utilities"
+        },
+        {
+            "amount": 70,
+            "type": "expenses",
+            "date": "3/1/2020",
+            "category": "advertisment"
+        },
+        {
+            "amount": 10,
+            "type": "expenses",
+            "date": "3/1/2020",
+            "category": "travel"
+        },
+        {
+            "amount": 20,
+            "type": "expenses",
+            "date": "4/1/2020",
+            "category": "commission"
+        },
+        {
+            "amount": 15,
+            "type": "expenses",
+            "date": "5/1/2020",
+            "category": "travel"
+        },
+        {
+            "amount": 40,
+            "type": "expenses",
+            "date": "6/1/2020",
+            "category": "others"
+        }     
+    ]
+}
