@@ -11,87 +11,99 @@
     ],
     "reports": [
         {
-            "amount": 100,
+            "amount": 120,
             "type": "sales",
-            "date": "1/1/2020"
+            "date": "1/2/2020"
         },
         {
-            "amount": 200,
+            "amount": 90,
             "type": "sales",
-            "date": "2/1/2020"
+            "date": "2/2/2020"
         },
         {
             "amount": 150,
             "type": "sales",
-            "date": "3/1/2020"
-        },
-        {
-            "amount": 170,
-            "type": "sales",
-            "date": "4/1/2020"
-        },
-        {
-            "amount": 175,
-            "type": "sales",
-            "date": "5/1/2020"
+            "date": "3/2/2020"
         },
         {
             "amount": 120,
             "type": "sales",
-            "date": "6/1/2020"
+            "date": "4/2/2020"
+        },
+        {
+            "amount": 85,
+            "type": "sales",
+            "date": "5/2/2020"
+        },
+        {
+            "amount": 135,
+            "type": "sales",
+            "date": "6/2/2020"
         },
         {
             "amount": 60,
             "type": "expenses",
-            "date": "1/1/2020",
+            "date": "1/2/2020",
             "category": "rent"
         },
         {
             "amount": 50,
             "type": "expenses",
-            "date": "2/1/2020",
+            "date": "2/2/2020",
             "category": "utilities"
         },
         {
             "amount": 70,
             "type": "expenses",
-            "date": "3/1/2020",
+            "date": "3/2/2020",
             "category": "advertisment"
         },
         {
-            "amount": 10,
+            "amount": 70,
             "type": "expenses",
-            "date": "3/1/2020",
+            "date": "4/2/2020",
+            "category": "rent"
+        },
+        {
+            "amount": 55,
+            "type": "expenses",
+            "date": "3/2/2020",
+            "category": "salaries"
+        },
+        {
+            "amount": 30,
+            "type": "expenses",
+            "date": "3/2/2020",
             "category": "travel"
         },
         {
-            "amount": 20,
+            "amount": 40,
             "type": "expenses",
-            "date": "4/1/2020",
+            "date": "4/2/2020",
             "category": "commission"
         },
         {
             "amount": 30,
             "type": "expenses",
-            "date": "4/1/2020",
+            "date": "5/2/2020",
             "category": "utilities"
         },
         {
-            "amount": 15,
+            "amount": 25,
             "type": "expenses",
-            "date": "5/1/2020",
+            "date": "5/2/2020",
             "category": "travel"
         },
         {
-            "amount": 35,
+            "amount": 55,
             "type": "expenses",
-            "date": "5/1/2020",
+            "date": "5/2/2020",
             "category": "salaries"
         },
         {
-            "amount": 40,
+            "amount": 60,
             "type": "expenses",
-            "date": "6/1/2020",
+            "date": "6/2/2020",
             "category": "others"
         }     
     ]

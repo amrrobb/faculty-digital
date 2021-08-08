@@ -35,10 +35,10 @@ class Controller {
                     id: data.id,
                     email: data.email
                 })
-                res.status(200).json({access_token})
+                res.status(200).json({access_token, email})
             }
             else {
-                next({code: 401, message: "Invalid Username/Email/Password"})
+                next({code: 401, message: "Invalid Email/Password"})
             }
 
         } catch (err) {
