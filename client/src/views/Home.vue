@@ -1,18 +1,26 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <h2>Welcome to this Dashboard App</h2>
+    
+    <div class="d-flex justify-content-center mt-5">
+      <div>
+          <img class="w-25" src="../assets/home.png" alt="" srcset="">
+          
+          <h4>Please login to continue</h4>
+          <router-link :to="{name: 'Login'}">
+            <button type="button" class="btn btn-outline-primary btn-lg">Login</button>
+          </router-link>
+      </div>
+
+    </div>
   </div>
 </template>
 
 <script>
-// @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
 
 export default {
   name: 'Home',
   components: {
-    HelloWorld
   }
 }
 </script>
