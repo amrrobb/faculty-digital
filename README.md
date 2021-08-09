@@ -5,9 +5,8 @@ Create:
 1. Login Page
 2. Dashboard to visualize data
 
-git clone <this-git-url>
-
 Requirement: Full stack
+
 For database:
 1. Need to install postgreSQL
 
